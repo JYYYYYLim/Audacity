@@ -195,6 +195,7 @@ function newLevel(){
 		GUI = new PopupWindow(layout, RelativeLayout.LayoutParams.WRAP_CONTENT, RelativeLayout.LayoutParams.WRAP_CONTENT);
 		GUI.setBackgroundDrawable(new ColorDrawable(Color.TRANSPARENT));
 		GUI.showAtLocation(ctx.getWindow().getDecorView(), Gravity.RIGHT | Gravity.TOP, 160, 0);
+		//Made by JY. ALL RIGHTS RESERVED 2017
 		}catch(err){
 			Toast.makeText(ctx, "An error occured: " + err, 1).show();
 		}
