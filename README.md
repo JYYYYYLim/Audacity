@@ -1,6 +1,7 @@
 ## Audacity
-A "fork" of the 2 year-old dead project GhostHack, with more goodies.
+A "fork" of the dead project GhostHack, with more goodies. now obsolete.  
+
+  >(((microsoft))) buys minecraft from (((notch)))  >new minecraft adds dlc bullshit  >update breaks modpe  >also breaks 90% of hacks  >mfw
 
 
 
->mfw new minecraft defined invalid client movements, fuck you microsoft
